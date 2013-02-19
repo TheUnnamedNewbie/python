@@ -33,7 +33,7 @@ else:
 	if score>0:
 		print("Correct! ", value, "was de gezochte waarde! Je score is ", score)
 	else:
-		print("Je kansen zijn op! YOU FAILED!!! \n De gezochte waarde was ", value)
+		print("Je kansen zijn op! YOU FAILED!!! De gezochte waarde was ", value)
 
 
 
